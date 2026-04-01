@@ -1,0 +1,4 @@
+name=John Doe
+role=Software Engineer
+email=john@email.com
+about=Passionate developer with 5 years experience.

@@ -1,0 +1,4 @@
+name=Jane Smith
+role=Data Analyst
+email=jane@email.com
+about=Data lover and visualization expert.
